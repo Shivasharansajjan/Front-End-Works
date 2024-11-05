@@ -33,3 +33,22 @@ Tag                     Purpose                                        	Example 
 <meta>	     Provides metadata like character set or description	        <meta charset="UTF-8">
 <link>	     Links external resources like CSS stylesheets              	<link rel="stylesheet" href="style.css">
 <script>	   Embeds JavaScript or links to an external script            	<script src="app.js"></script>
+
+  
+Explanation of Key Tags
+Links and Navigation:
+
+<a href="URL">: Links one page to another.
+Images and Media:
+
+<img src="URL" alt="description">: Displays an image on the page.
+Lists:
+
+<ul> and <ol>: Create bulleted or numbered lists.
+<li>: Items within lists.
+Tables:
+
+<table>, <tr>, <td>, <th>: Used to create and structure tables.
+Forms and Inputs:
+
+<form>, <input>, <label>, <textarea>, <select>, <option>: Used to create forms for collecting user input.
